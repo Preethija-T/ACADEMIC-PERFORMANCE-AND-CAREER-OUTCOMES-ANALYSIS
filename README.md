@@ -201,6 +201,6 @@ If you found this project useful or have feedback, feel free to reach out!
 ---
 
 ## 📚 Tags
-`#PowerBI` `#DataAnalysis` `#MutualFunds` `#FinanceAnalytics`  
+`#PowerBI` `#DataAnalysis` `#Education` `#Career Analytics` 
 `#DAX` `#DataVisualization` `#ExcelPowerQuery`
 
